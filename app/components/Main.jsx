@@ -1,10 +1,10 @@
 var React = require('react');
-var Nav = require('Nav');
+var Navigation = require('Navigation');
 
 var Main = (props) => {
   return (
   <div>
-    <Nav/>
+    <Navigation/>
     <div>
       <div>
         <p>Main.jsx Rendered</p>
